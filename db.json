@@ -1,0 +1,84 @@
+{
+    "team": [
+        {
+            "photo": "person1",
+            "fullName": "Leonard John Davies",
+            "position": "Cofounder, CEO",
+            "socials": [
+                { "name": "facebook", "icon": "facebook", "link": "#" },
+                { "name": "twitter", "icon": "twitter", "link": "#" },
+                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+            ]
+        },
+        {
+            "photo": "person2",
+            "fullName": "Francis Weber",
+            "position": "Vice Chairman",
+            "socials": [
+                { "name": "facebook", "icon": "facebook", "link": "#" },
+                { "name": "twitter", "icon": "twitter", "link": "#" },
+                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+            ]
+        },
+        {
+            "photo": "person3",
+            "fullName": "Kyla Obrien",
+            "position": "Head of Authority",
+            "socials": [
+                { "name": "facebook", "icon": "facebook", "link": "#" },
+                { "name": "twitter", "icon": "twitter", "link": "#" },
+                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+            ]
+        },
+        {
+            "photo": "person4",
+            "fullName": "Adrian Dixon",
+            "position": "Support Executive",
+            "socials": [
+                { "name": "facebook", "icon": "facebook", "link": "#" },
+                { "name": "twitter", "icon": "twitter", "link": "#" },
+                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+            ]
+        },
+        {
+            "photo": "person5",
+            "fullName": "Freddy Busby",
+            "position": "Project Manager",
+            "socials": [
+                { "name": "facebook", "icon": "facebook", "link": "#" },
+                { "name": "twitter", "icon": "twitter", "link": "#" },
+                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+            ]
+        },
+        {
+            "photo": "person6",
+            "fullName": "Dale Banks",
+            "position": "Accountatnt, Finance",
+            "socials": [
+                { "name": "facebook", "icon": "facebook", "link": "#" },
+                { "name": "twitter", "icon": "twitter", "link": "#" },
+                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+            ]
+        },
+        {
+            "photo": "person7",
+            "fullName": "Miriam Middleton",
+            "position": "Cofounder, CEO",
+            "socials": [
+                { "name": "facebook", "icon": "facebook", "link": "#" },
+                { "name": "twitter", "icon": "twitter", "link": "#" },
+                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+            ]
+        },
+        {
+            "photo": "person8",
+            "fullName": "Ellen Walton",
+            "position": "Vice Chairman",
+            "socials": [
+                { "name": "facebook", "icon": "facebook", "link": "#" },
+                { "name": "twitter", "icon": "twitter", "link": "#" },
+                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+            ]
+        }
+    ]
+}
