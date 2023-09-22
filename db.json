@@ -1,13 +1,18 @@
 {
+    "socials": [
+        { "name": "facebook", "icon": "https://res.cloudinary.com/dfxmb5hlx/image/upload/v1695391895/finsweet/rddtu3i7zvgvzz36iew4.png" },
+        { "name": "twitter", "icon": "https://res.cloudinary.com/dfxmb5hlx/image/upload/v1695391896/finsweet/b4zepyyis38lydudenmk.png" },
+        { "name": "linkedIn", "icon": "https://res.cloudinary.com/dfxmb5hlx/image/upload/v1695391896/finsweet/zdmjgtkjbkpgxasj401w.png" }
+    ],
     "team": [
         {
             "photo": "https://res.cloudinary.com/dfxmb5hlx/image/upload/v1695391522/finsweet/oj6xaj2rutcrzj56njci.png",
             "fullName": "Leonard John Davies",
             "position": "Cofounder, CEO",
             "socials": [
-                { "name": "facebook", "icon": "facebook", "link": "#" },
-                { "name": "twitter", "icon": "twitter", "link": "#" },
-                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+                { "name": "facebook", "link": "#" },
+                { "name": "twitter", "link": "#" },
+                { "name": "linkedIn" "link": "#" }
             ]
         },
         {
@@ -15,9 +20,9 @@
             "fullName": "Francis Weber",
             "position": "Vice Chairman",
             "socials": [
-                { "name": "facebook", "icon": "facebook", "link": "#" },
-                { "name": "twitter", "icon": "twitter", "link": "#" },
-                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+                { "name": "facebook", "link": "#" },
+                { "name": "twitter", "link": "#" },
+                { "name": "linkedIn", "link": "#" }
             ]
         },
         {
@@ -25,9 +30,9 @@
             "fullName": "Kyla Obrien",
             "position": "Head of Authority",
             "socials": [
-                { "name": "facebook", "icon": "facebook", "link": "#" },
-                { "name": "twitter", "icon": "twitter", "link": "#" },
-                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+                { "name": "facebook", "link": "#" },
+                { "name": "twitter", "link": "#" },
+                { "name": "linkedIn", "link": "#" }
             ]
         },
         {
@@ -35,9 +40,9 @@
             "fullName": "Adrian Dixon",
             "position": "Support Executive",
             "socials": [
-                { "name": "facebook", "icon": "facebook", "link": "#" },
-                { "name": "twitter", "icon": "twitter", "link": "#" },
-                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+                { "name": "facebook", "link": "#" },
+                { "name": "twitter", "link": "#" },
+                { "name": "linkedIn", "link": "#" }
             ]
         },
         {
@@ -45,9 +50,9 @@
             "fullName": "Freddy Busby",
             "position": "Project Manager",
             "socials": [
-                { "name": "facebook", "icon": "facebook", "link": "#" },
-                { "name": "twitter", "icon": "twitter", "link": "#" },
-                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+                { "name": "facebook", "link": "#" },
+                { "name": "twitter", "link": "#" },
+                { "name": "linkedIn", "link": "#" }
             ]
         },
         {
@@ -55,9 +60,9 @@
             "fullName": "Dale Banks",
             "position": "Accountatnt, Finance",
             "socials": [
-                { "name": "facebook", "icon": "facebook", "link": "#" },
-                { "name": "twitter", "icon": "twitter", "link": "#" },
-                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+                { "name": "facebook", "link": "#" },
+                { "name": "twitter", "link": "#" },
+                { "name": "linkedIn", "link": "#" }
             ]
         },
         {
@@ -65,9 +70,9 @@
             "fullName": "Miriam Middleton",
             "position": "Cofounder, CEO",
             "socials": [
-                { "name": "facebook", "icon": "facebook", "link": "#" },
-                { "name": "twitter", "icon": "twitter", "link": "#" },
-                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+                { "name": "facebook", "link": "#" },
+                { "name": "twitter", "link": "#" },
+                { "name": "linkedIn", "link": "#" }
             ]
         },
         {
@@ -75,9 +80,9 @@
             "fullName": "Ellen Walton",
             "position": "Vice Chairman",
             "socials": [
-                { "name": "facebook", "icon": "facebook", "link": "#" },
-                { "name": "twitter", "icon": "twitter", "link": "#" },
-                { "name": "linkedIn", "icon": "linkedIn", "link": "#" }
+                { "name": "facebook", "link": "#" },
+                { "name": "twitter", "link": "#" },
+                { "name": "linkedIn", "link": "#" }
             ]
         }
     ]
