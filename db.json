@@ -1,7 +1,7 @@
 {
     "team": [
         {
-            "photo": "person1",
+            "photo": "https://drive.google.com/file/d/1O-_R5QFJfS-G0HBKm6u1FomnDnnn10pP/view?usp=drive_link",
             "fullName": "Leonard John Davies",
             "position": "Cofounder, CEO",
             "socials": [
@@ -11,7 +11,7 @@
             ]
         },
         {
-            "photo": "person2",
+            "photo": "https://drive.google.com/file/d/16U2CdY7aXESWy8UMBeXK_XdXx4RkfaJH/view?usp=drive_link",
             "fullName": "Francis Weber",
             "position": "Vice Chairman",
             "socials": [
@@ -21,7 +21,7 @@
             ]
         },
         {
-            "photo": "person3",
+            "photo": "https://drive.google.com/file/d/1-Bjc6nx3MwTxW-PVmtObCTeW7CYNHmGS/view?usp=drive_link",
             "fullName": "Kyla Obrien",
             "position": "Head of Authority",
             "socials": [
@@ -31,7 +31,7 @@
             ]
         },
         {
-            "photo": "person4",
+            "photo": "https://drive.google.com/file/d/1oTrzgWWMBca9zn0DR5a3jSwozAlMxQS9/view?usp=drive_link",
             "fullName": "Adrian Dixon",
             "position": "Support Executive",
             "socials": [
@@ -41,7 +41,7 @@
             ]
         },
         {
-            "photo": "person5",
+            "photo": "https://drive.google.com/file/d/1aIsrgSRJVJAJzq0l8bd2U2UU-salc4uj/view?usp=drive_link",
             "fullName": "Freddy Busby",
             "position": "Project Manager",
             "socials": [
@@ -51,7 +51,7 @@
             ]
         },
         {
-            "photo": "person6",
+            "photo": "https://drive.google.com/file/d/1onOS32KiVNkrYlQ71Ev817VGy2zvMEFw/view?usp=drive_link",
             "fullName": "Dale Banks",
             "position": "Accountatnt, Finance",
             "socials": [
@@ -61,7 +61,7 @@
             ]
         },
         {
-            "photo": "person7",
+            "photo": "https://drive.google.com/file/d/11akdKw0qA2GAxiOKCc4MpYHGimevFizw/view?usp=drive_link",
             "fullName": "Miriam Middleton",
             "position": "Cofounder, CEO",
             "socials": [
@@ -71,7 +71,7 @@
             ]
         },
         {
-            "photo": "person8",
+            "photo": "https://drive.google.com/file/d/1hh6yIZ5d-MJgZRermDrlOPiSmfjsipiz/view?usp=drive_link",
             "fullName": "Ellen Walton",
             "position": "Vice Chairman",
             "socials": [
